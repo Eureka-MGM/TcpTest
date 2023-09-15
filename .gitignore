@@ -33,4 +33,4 @@
 
 #Qt构建文件
 *.user
-/build-*/
+/build-*
